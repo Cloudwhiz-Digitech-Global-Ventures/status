@@ -28,13 +28,8 @@ sites:
     url: https://www.cloudwhiz.org
   - name: CloudWhiz.ae
     url: https://www.cloudwhiz.ae
-  - name: CloudWhiz IPv6 test
-    url: cloudwhiz.co.in
-    check: "tcp-ping"
-    ipv6: true
   - name: Clowud IPv6 test
-    url: host23.clowud.com
-    check: "tcp-ping"
+    url: https://host23.clowud.com
     ipv6: true
 
 status-website:
