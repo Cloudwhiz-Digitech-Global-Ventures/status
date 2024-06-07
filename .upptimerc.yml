@@ -24,6 +24,8 @@ sites:
     url: https://mail.cloudwhiz.co.in
   - name: CloudWhiz.in
     url: https://www.cloudwhiz.in
+  - name: CloudWhiz.org
+    url: https://www.cloudwhiz.org
   - name: CloudWhiz.ae
     url: https://www.cloudwhiz.ae
   - name: Clowud IPv6 test
