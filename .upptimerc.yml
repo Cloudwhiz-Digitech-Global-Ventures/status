@@ -39,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cloudwhiz.co.in
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://d1xuv411iyp43l.cloudfront.net/HTSzFA0QghGmuGqT/logos/cloudwhiz-logo.svg
   name: CloudWhiz
   introTitle: "**CloudWhiz** Uptime Status"
   introMessage:
