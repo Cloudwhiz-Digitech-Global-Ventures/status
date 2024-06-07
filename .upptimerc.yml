@@ -1,18 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Cloudwhiz-Digitech-Global-Ventures # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
+# CloudWhiz Sites List
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: CloudWhiz.co.in
+    url: https://www.cloudwhiz.co.in
+  - name: CloudWhiz.org.in
+    url: https://www.cloudwhiz.org.in
+  - name: Clowud.com
+    url: https://www.clowud.com
+  - name: Clowud.in
+    url: https://www.clowud.in
+  - name: Clowud.ae
+    url: https://www.clowud.ae
+  - name: Clowud.us
+    url: https://www.clowud.us
+  - name: Clowud.shop
+    url: https://www.clowud.shop
+  - name: Clowud Support
+    url: https://support.clowud.com
+  - name: CloudWhiz Mail
+    url: https://mail.cloudwhiz.co.in
+  - name: CloudWhiz.in
+    url: https://www.cloudwhiz.in
+  - name: CloudWhiz.ae
+    url: https://www.cloudwhiz.ae
+  - name: Clowud IPv6 test
+    url: host23.clowud.com
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -20,12 +35,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.cloudwhiz.co.in
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: CloudWhiz
+  introTitle: "**CloudWhiz** Uptime Status"
+  introMessage:
   navbar:
     - title: Status
       href: /
