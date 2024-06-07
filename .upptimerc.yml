@@ -28,9 +28,14 @@ sites:
     url: https://www.cloudwhiz.org
   - name: CloudWhiz.ae
     url: https://www.cloudwhiz.ae
+  - name: CloudWhiz IPv6 test
+    url: cloudwhiz.co.in
+    port: 443
+    check: "tcp-ping"
+    ipv6: true
   - name: Clowud IPv6 test
     url: host23.clowud.com
-    port: 80
+    port: 443
     check: "tcp-ping"
     ipv6: true
 
