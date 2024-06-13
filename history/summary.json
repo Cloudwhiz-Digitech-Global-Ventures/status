@@ -40,19 +40,19 @@
     "url": "https://www.clowud.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.com.ico",
     "slug": "clowud-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1670,
-    "timeDay": 1448,
-    "timeWeek": 1670,
-    "timeMonth": 1670,
-    "timeYear": 1670,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1663,
+    "timeDay": 1516,
+    "timeWeek": 1663,
+    "timeMonth": 1663,
+    "timeYear": 1663,
     "dailyMinutesDown": {
-      "2024-06-13": 1
+      "2024-06-13": 11
     }
   },
   {
