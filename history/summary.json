@@ -4,10 +4,10 @@
     "url": "https://www.cloudwhiz.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudwhiz.co.in.ico",
     "slug": "cloud-whiz-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 1125,
@@ -16,6 +16,7 @@
     "timeMonth": 1125,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2024-06-28": 1,
       "2024-06-18": 7,
       "2024-06-14": 9
     }
@@ -231,18 +232,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/host23.clowud.com.ico",
     "slug": "clowud-i-pv6-test",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "98.96%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 700,
     "timeDay": 0,
     "timeWeek": 660,
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2024-06-28": 15,
+      "2024-06-28": 232,
       "2024-06-27": 64,
       "2024-06-07": 14
     }
