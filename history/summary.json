@@ -47,19 +47,19 @@
     "url": "https://www.clowud.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.com.ico",
     "slug": "clowud-com",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 2744,
     "timeDay": 14173,
     "timeWeek": 5727,
     "timeMonth": 2744,
     "timeYear": 2744,
     "dailyMinutesDown": {
-      "2024-07-02": 27,
+      "2024-07-02": 33,
       "2024-06-13": 11
     }
   },
@@ -68,19 +68,19 @@
     "url": "https://www.clowud.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.in.ico",
     "slug": "clowud-in",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1300,
     "timeDay": 1405,
     "timeWeek": 1251,
     "timeMonth": 1300,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2024-07-02": 24
+      "2024-07-02": 28
     }
   },
   {
@@ -88,19 +88,19 @@
     "url": "https://www.clowud.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.ae.ico",
     "slug": "clowud-ae",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1287,
-    "timeDay": 1320,
-    "timeWeek": 1220,
-    "timeMonth": 1287,
-    "timeYear": 1287,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1299,
+    "timeDay": 1431,
+    "timeWeek": 1268,
+    "timeMonth": 1299,
+    "timeYear": 1299,
     "dailyMinutesDown": {
-      "2024-07-02": 26
+      "2024-07-02": 32
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.us.ico",
     "slug": "clowud-us",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1272,
     "timeDay": 1216,
     "timeWeek": 1197,
     "timeMonth": 1272,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2024-07-02": 23
+      "2024-07-02": 31
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clowud.shop.ico",
     "slug": "clowud-shop",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1283,
     "timeDay": 1346,
     "timeWeek": 1232,
     "timeMonth": 1283,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2024-07-02": 20
+      "2024-07-02": 29
     }
   },
   {
