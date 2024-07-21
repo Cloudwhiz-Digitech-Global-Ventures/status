@@ -189,9 +189,9 @@
     "url": "https://www.cloudwhiz.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudwhiz.in.ico",
     "slug": "cloud-whiz-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.76%",
@@ -201,6 +201,7 @@
     "timeMonth": 1238,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2024-07-21": 0,
       "2024-07-17": 11,
       "2024-07-09": 139
     }
